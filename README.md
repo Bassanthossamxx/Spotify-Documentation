@@ -4,6 +4,8 @@
 
 Welcome to the repository for our Software Engineering project! This repo will serve as the central hub for all project-related tasks, documents, and code contributions. To keep our project organized and efficient, please use this repository to commit updates, notes, and progress points instead of sharing via WhatsApp .
 
+## Latex project link : 
+[Docmentaion on Overleaf](https://www.overleaf.com/6745215527pkzshxrwdryt#f98bfd)
 ## How to Contribute
 
 1. **Clone the Repository**  
